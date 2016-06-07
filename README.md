@@ -4,10 +4,10 @@ Watches multiple RSS feeds and publishes updates to Twitter. Written in Python3.
 Installation
 ------------
 1. Ensure you have the following packages installed:
-- feedparser
-- twython
-- bs4
-- configparser
+ - feedparser
+ - twython
+ - bs4
+ - configparser
 2. Create a Twitter API app
 3. Edit Twitter settings in auth.txt
 4. Edit RSS feeds to monitor in feeds.txt
